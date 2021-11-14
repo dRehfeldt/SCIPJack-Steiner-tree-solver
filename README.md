@@ -16,4 +16,4 @@ make*
 # UPDATE:
 
 As new Soplex and SCIP versions are available, and this repository cannot be constantly kept up to date, the corresponding folders 
-have been removed. To use this repository, please get the latest SCIP and Soplex versions from https://scip.zib.de/ and add the sources in folders "scip" and "soplex". It is also strongly recommended to use the latest SCIP-Jack version, which is part of SCIP and is available here: https://scip.zib.de/ or here https://github.com/scipopt/scip.
+have been removed. To use this repository, please get the latest SCIP and Soplex versions from https://scip.zib.de/ and add the sources in folders "scip" and "soplex". It is also strongly **recommended** to use the **latest** and **much faster** SCIP-Jack version from http://scipjack.zib.de/
