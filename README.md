@@ -3,7 +3,7 @@
 **About**
 
 Steiner tree solver that was submitted to the PACE 2018 Challenge, dedicated to fixed-parameter tractable Steiner tree instances, see
-https://pacechallenge.org/2018/
+https://pacechallenge.org/2018/. It finished 1st place in Track B, 2nd place in Track A, and 3th place in Track C.
 
 
 **Installation**
